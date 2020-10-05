@@ -149,6 +149,16 @@
       "comparison": "included",
       "timeout": 1,
       "points": null
+    },
+    {
+      "name": "BasicInput 4",
+      "setup": "cd src && javac exercise2/BasicInput.java",
+      "run": "cd src && java exercise2.BasicInput",
+      "input": "4",
+      "output": "You entered: 4. Its square root is 2.0",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
     }
   ]
 }
