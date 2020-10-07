@@ -11,7 +11,7 @@ public class BasicInput {
         int number = input.nextInt();
         double squareRoot = Math.sqrt(number);
 
-        System.out.println("You entered: " + number + ". Its square root is " + squareRoot);
+        System.out.println("You entered " + number + ". Its square root is " + squareRoot);
     }
 
 }
